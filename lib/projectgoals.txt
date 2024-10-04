@@ -1,0 +1,76 @@
+Receipt Documenter
+
+Bars:
+    Header:
+        - Hello Message
+        - Profile Button
+
+    Footer:
+        - Home
+        - receipts
+        - Receipt Reader
+        - Settings
+
+Pages:
+    Home Page:
+        - Monthly Expense
+        - Expenses Graph Button
+        - Receipt Page Button
+        - Show some recent receipts
+        - Quick Links
+            ~ Sheet
+            ~ Resources
+            ~ Privacy
+            ~ Transaction Stats
+
+    Profile Page:
+        - Profile Icon
+        - Profile Information
+            ~ Name
+            ~ Email
+            ~ Phone
+        - Settings Link
+        - Resources Link
+        - Privacy Link
+        - Logout/SignIn
+        - Delete Account
+
+    Settings Page:
+        - Link to Profile
+        - Link Privacy Page
+        - Appearence
+        - Language Region
+        - Accessibility Settings
+
+    Receipt Activity Page:
+        - Searchbar
+        - Filter
+        - List of all receipt transactions, starting with most recent, unless otherwise filtered
+
+    Individual Receipt Pages:
+        - Provide the image, and option to download
+        - Provide the location, date, transaction amount, and input feilds for all of the above
+
+    Transaction Stats Page:
+
+    Privacy Page:
+
+
+
+Functionality:
+    Receipt Reader:
+
+    Sheets Creator:
+
+    Expense Tracking/Graphing:
+
+    Receipt Filtering/Searching:
+
+TODO:
+- Delete account checker
+- calculate monthly Expense
+- Sheet Creator
+- Fill out useless Buttons
+- Improve reader model
+- Download feature
+- Stay logged in feature
