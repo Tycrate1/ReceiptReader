@@ -9,7 +9,7 @@ VS Code is recommended on a Windows operating system, other development environm
 Start with cloning the repository with git clone https://github.com/Tycrate1/ReceiptReader
 
 2. Running Project:
-Select main.dart file in the lib folder, the flask server should run on startup. If not run python lib/pythonOCR/app.py in a terminal window.
+When loading the project in VS Code it may prompt you to run pub get on flutter. Select main.dart file in the lib folder, the flask server should run on startup. If not run python lib/pythonOCR/app.py in a terminal window.
 
 3. Exploring Project:
 The project is currently linked to a database storing accounts, if you wish you can create your own account through the signup page. If you just want to jump straight in you can use the username testuser1@gmail.com and the password TestUserPassword1.
